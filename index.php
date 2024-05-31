@@ -7,7 +7,7 @@ error_reporting(E_ALL);
 // Database connection details
 $servername = 'localhost';
 $username = 'root';
-$password = '12345';
+$password = '';
 $dbname = 'student_management_system';
 
 // Create a new MySQLi instance
